@@ -4,6 +4,9 @@
 - Utiliser les fonctions de base de gestion des fichiers "texte" du langage C.
 - Coder un programme robuste aux erreurs des utilisateurs.
 
+## Saisie
+- Tant que l'utilisateur n'a pas entré une valeur correcte, le programme doit demander de recommencer la saisie.
+
 ## Visualisation de l’onde d’une sirène
 La forme caractéristique de l’onde d’une sirène est une sinusoïde d’amplitude constante et de fréquence variant sinusoïdalement, d’équation :
 
