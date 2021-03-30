@@ -7,6 +7,10 @@
 ## Saisie
 - Tant que l'utilisateur n'a pas entré une valeur correcte, le programme doit demander de recommencer la saisie.
 
+## Contrôle de valeurs
+- Toutes les valeurs doivent être positives
+- `A` et `f` doivent être différent de `0`
+
 ## Visualisation de l’onde d’une sirène
 La forme caractéristique de l’onde d’une sirène est une sinusoïde d’amplitude constante et de fréquence variant sinusoïdalement, d’équation :
 
